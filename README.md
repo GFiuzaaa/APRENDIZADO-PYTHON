@@ -9,15 +9,16 @@ a navegação e o uso: Pastas ou arquivos agrupados por tipo de conteúdo ou tem
 
 Como usar 
 
-Clone o repositório: git clone <URL_DO_REPOSITÓRIO>
-Abra o projeto em um editor que suporte Python (VS Code, PyCharm, etc.).
-Execute os exercícios que quiser praticar.
+1 - Clone o repositório: git clone <URL_DO_REPOSITÓRIO>.
+2 - Abra o projeto em um editor que suporte Python (VS Code, PyCharm, etc.).
+3 - Execute os exercícios que quiser praticar.
 
 
 Ao resolver exercícios: Siga as convenções de nomeação de funções e variáveis. 
 Teste diferentes entradas e casos de uso. Comente seu código quando fizer algo complexo. 
 
 Contribuição 
+
 Contribuições são bem-vindas. Se quiser melhorar a organização, 
 adicionar novos exercícios ou corrigir algo: Faça um fork do 
 repositório. Crie uma branch com sua alteração. Abra uma pull request descrevendo suas mudanças. 
