@@ -9,7 +9,7 @@ O sistema permite criar produtos, adicioná-los ao carrinho com diferentes quant
 ▶️ Como executar
 
 Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone <URL_DO_REPOSITÓRIO>
 
 Entre na pasta do projeto:
 loja_virtual
