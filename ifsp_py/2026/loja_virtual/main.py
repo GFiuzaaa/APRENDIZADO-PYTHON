@@ -38,3 +38,7 @@ entrega = Entrega_Expressa()
 
 nova_compra = Compra(fiuza, pagamento, entrega, estoque)
 nova_compra.finalizar()
+
+#Metodo validar da calsse compra só verifica se
+#contem o nome no estoque, ainda não verifica se
+#tem a quantia certa para finalizar a compra
