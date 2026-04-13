@@ -18,7 +18,7 @@ class Carrinho():
                 else:
                     i.quantidade -= quantidade
 
-                    if quantidade <= 0:
+                    if i.quantidade <= 0:
                         self.__itens.remove(i)
         
                 break
@@ -33,3 +33,13 @@ class Carrinho():
             valor_total += i.subtotal()
         return valor_total
 
+    def mostrar(self):
+        print("\nSeu Carrinho contem:\n")
+        for i in self.__itens:
+            print(f"Item: {i.produto.nome} - Quantidade: {i.quantidade}")
+        print("\n")
+
+    
+    def get_itens(self):
+        return self.__itens
+    
